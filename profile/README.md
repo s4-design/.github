@@ -6,9 +6,9 @@
 <h1 align="center">Интерфейсная Система 4 (S4)</h1>
 <div align="center">
     Детерминированный CSS. Гибкая темизация. Единая параметрическая шкала.
-</div>
-<br>
-<div>
+    <br>
+    —
+    <br>
     Interface System 4 - Deterministic CSS. Device-native theming. One parametric scale.
 </div>
 
